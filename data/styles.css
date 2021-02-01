@@ -89,6 +89,17 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  font-family:'Segoe UI Normal', 'Segoe UI', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
 .flow_shape1 {
 }
 .checkbox {
@@ -97,5 +108,40 @@
 .label {
   font-size:14px;
   text-align:left;
+}
+.input_field {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:14px;
+  color:#2D373E;
+  text-align:left;
+}
+.label1 {
+  font-family:'Arial Negrita', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+  line-height:24px;
+}
+.border_grey {
+}
+.button1 {
+}
+.calendar {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:14px;
+  color:#2D373E;
+  text-align:center;
+}
+.calender_mouseover {
+}
+.calendar_selected {
+  color:#FFFFFF;
+}
+.solid_white {
 }
 textarea, select, input, button { outline: none; }
